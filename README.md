@@ -25,12 +25,5 @@
   - Log in to the admin panel.
   - Manage product listings and view order summaries.
 
-## 📬 Contact
-For inquiries or support:
-📧 Email: your-email@example.com
-🔗 GitHub: [Your GitHub Profile](https://github.com/your-username)
-
----
-
 Enjoy shopping with **Fashion_C** – Your one-stop fashion destination! 🛍️
 
